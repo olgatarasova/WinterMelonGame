@@ -1,9 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"Object5",
+  "%Name":"Obj_woman",
   "eventList":[],
   "managed":true,
-  "name":"Object5",
+  "name":"Obj_woman",
   "overriddenProperties":[],
   "parent":{
     "name":"Объекты",
@@ -27,7 +27,10 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":null,
+  "spriteId":{
+    "name":"Spr_w_idle",
+    "path":"sprites/Spr_w_idle/Spr_w_idle.yy",
+  },
   "spriteMaskId":null,
   "visible":true,
 }
