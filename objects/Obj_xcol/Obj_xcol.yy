@@ -1,9 +1,11 @@
 {
   "$GMObject":"",
-  "%Name":"Obj",
-  "eventList":[],
+  "%Name":"Obj_xcol",
+  "eventList":[
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":8,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
   "managed":true,
-  "name":"Obj",
+  "name":"Obj_xcol",
   "overriddenProperties":[],
   "parent":{
     "name":"Объекты",
