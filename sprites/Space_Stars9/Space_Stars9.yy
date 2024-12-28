@@ -1,43 +1,39 @@
 {
   "$GMSprite":"",
-  "%Name":"m_jump_1",
+  "%Name":"Space_Stars9",
   "bboxMode":0,
-  "bbox_bottom":19,
-  "bbox_left":6,
-  "bbox_right":18,
-  "bbox_top":4,
+  "bbox_bottom":63,
+  "bbox_left":0,
+  "bbox_right":63,
+  "bbox_top":0,
   "collisionKind":1,
   "collisionTolerance":0,
   "DynamicTexturePage":false,
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-<<<<<<< Updated upstream:sprites/m_jump_1/m_jump_1.yy
-    {"$GMSpriteFrame":"","%Name":"65171840-1fdd-4910-bf38-ea74fa00775f","name":"65171840-1fdd-4910-bf38-ea74fa00775f","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-=======
-    {"$GMSpriteFrame":"","%Name":"59f9ad4a-5373-40dc-899a-47cb7b1f6c5f","name":"59f9ad4a-5373-40dc-899a-47cb7b1f6c5f","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
->>>>>>> Stashed changes:sprites/Spr_test_platform/Spr_test_platform.yy
+    {"$GMSpriteFrame":"","%Name":"fef72caa-4901-4339-b0f7-2f86ebdd03a8","name":"fef72caa-4901-4339-b0f7-2f86ebdd03a8","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,
-  "height":24,
+  "height":64,
   "HTile":false,
   "layers":[
-    {"$GMImageLayer":"","%Name":"8236b61a-3dd8-43d3-8197-e98953b3be68","blendMode":0,"displayName":"default","isLocked":false,"name":"8236b61a-3dd8-43d3-8197-e98953b3be68","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
+    {"$GMImageLayer":"","%Name":"b4331cab-3b3d-4beb-98f1-6e6ae16c8dab","blendMode":0,"displayName":"default","isLocked":false,"name":"b4331cab-3b3d-4beb-98f1-6e6ae16c8dab","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
   ],
-  "name":"m_jump_1",
+  "name":"Space_Stars9",
   "nineSlice":null,
   "origin":0,
   "parent":{
-    "name":"man_jump",
-    "path":"folders/Спрайты/main_hero/man_jump.yy",
+    "name":"planets",
+    "path":"folders/Спрайты/planets.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",
   "resourceVersion":"2.0",
   "sequence":{
     "$GMSequence":"",
-    "%Name":"m_jump_1",
+    "%Name":"Space_Stars9",
     "autoRecord":true,
     "backdropHeight":768,
     "backdropImageOpacity":0.5,
@@ -61,7 +57,7 @@
       "resourceType":"KeyframeStore<MomentsEventKeyframe>",
       "resourceVersion":"2.0",
     },
-    "name":"m_jump_1",
+    "name":"Space_Stars9",
     "playback":1,
     "playbackSpeed":30.0,
     "playbackSpeedType":0,
@@ -73,13 +69,8 @@
     "tracks":[
       {"$GMSpriteFramesTrack":"","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"$KeyframeStore<SpriteFrameKeyframe>":"","Keyframes":[
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-<<<<<<< Updated upstream:sprites/m_jump_1/m_jump_1.yy
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"65171840-1fdd-4910-bf38-ea74fa00775f","path":"sprites/m_jump_1/m_jump_1.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"9f7dcc58-31ba-4a35-befb-45aafd179d70","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
-=======
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"59f9ad4a-5373-40dc-899a-47cb7b1f6c5f","path":"sprites/Spr_test_platform/Spr_test_platform.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"bf5913ae-0cd6-45f3-b0a8-7cea73d90b9c","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
->>>>>>> Stashed changes:sprites/Spr_test_platform/Spr_test_platform.yy
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"fef72caa-4901-4339-b0f7-2f86ebdd03a8","path":"sprites/Space_Stars9/Space_Stars9.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"58b85628-95ef-4e3d-b002-d69ebc9b3469","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
           ],"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"frames","resourceType":"GMSpriteFramesTrack","resourceVersion":"2.0","spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange":null,
@@ -95,5 +86,5 @@
   },
   "type":0,
   "VTile":false,
-  "width":24,
+  "width":64,
 }
