@@ -48,7 +48,6 @@
     {"id":{"name":"obj_terra","path":"objects/obj_terra/obj_terra.yy",},},
     {"id":{"name":"rm_init","path":"rooms/rm_init/rm_init.yy",},},
     {"id":{"name":"rm_lvl1","path":"rooms/rm_lvl1/rm_lvl1.yy",},},
-    {"id":{"name":"Baren","path":"sprites/Baren/Baren.yy",},},
     {"id":{"name":"Black_hole","path":"sprites/Black_hole/Black_hole.yy",},},
     {"id":{"name":"Ice","path":"sprites/Ice/Ice.yy",},},
     {"id":{"name":"Lava","path":"sprites/Lava/Lava.yy",},},
